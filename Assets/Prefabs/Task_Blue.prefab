@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7436379861527709543}
   - component: {fileID: 8023017161355320628}
   m_Layer: 5
-  m_Name: Blue_Task
+  m_Name: Blue_Task_BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 585312207}
   - component: {fileID: 585312206}
   m_Layer: 5
-  m_Name: Check_Duplicatoin_Button
+  m_Name: Check_Duplication_Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

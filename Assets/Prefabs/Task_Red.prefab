@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 5755358636252190883}
   - component: {fileID: 6785273011047605166}
   m_Layer: 5
-  m_Name: Red_Task
+  m_Name: Red_Task_BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

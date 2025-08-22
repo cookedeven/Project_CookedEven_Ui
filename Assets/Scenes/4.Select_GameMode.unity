@@ -621,8 +621,8 @@ RectTransform:
   - {fileID: 1903897005}
   - {fileID: 750351797}
   - {fileID: 628751865}
-  - {fileID: 818591396}
   - {fileID: 1185309309}
+  - {fileID: 818591396}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -936,7 +936,7 @@ GameObject:
   - component: {fileID: 818591398}
   - component: {fileID: 818591397}
   m_Layer: 5
-  m_Name: GameMode_Selection_Background
+  m_Name: GameMode_Selection_Background (2vs2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1358,7 +1358,7 @@ GameObject:
   - component: {fileID: 1185309311}
   - component: {fileID: 1185309310}
   m_Layer: 5
-  m_Name: GameMode_Selection_Background (1)
+  m_Name: GameMode_Selection_Background (1vs1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
